@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>How to Plan and Measure an I&I Reduction Program</title>
+<meta name="title" content="How to Plan and Measure an I&I Reduction Program">
+<meta name="dc.title" content="How to Plan and Measure an I&I Reduction Program">
+<meta name="description" content="A sound I&I program scopes defects, sequences repairs, and verifies flow. See how to plan and measure infiltration reduction on the Gulf Coast.">
+<meta name="keywords" content="How to Plan and Measure an I&I Reduction Program">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><link rel="canonical" href="how-to-plan-and-measure-an-ii-reduction-program.html">
+<link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="shortcut icon" href="img/" alt="How to Plan and Measure an I&I Reduction Program" />
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
+<style type="text/css">
+ 	.w2fc1d083a3d41daa926e24e4615ef58f{
+font-size: 19.6px;
+font-weight: bold;
+}
+.e319aa9a0ebf57b6d46ea599e95b7d05a{
+position: relative;
+z-index: 1;
+}
+.f9516a35e7be21908f1c25dc0f6056228 a{
+color:#ff881e!important;
+}
+.ye3005e7998d285eda7837f82fdd666c6 .card .card-header span{
+font-size: 1.5rem;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .w3e4487fcfd7cf406889d607b7f0ce3fa{
+background:#eae8e4!important ;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a p,.{special_content1_class} a,.t98fc98cc2eb881030447bedfd31ccd8a label{
+font-size:16px!important;
+}
+.ye3005e7998d285eda7837f82fdd666c6 .card .card-header .collapsed span{
+-webkit-transform: rotate(-180deg);
+transform: rotate(-180deg);
+}
+.nav-item{
+padding-left:8px;
+padding-right:8.2px;
+padding-top:4.6px;
+padding-bottom:4.7px;
+}
+.xbc9e2d5120c23753448a5f2a3dab009f{
+font-size:16px!important;
+color: #606060;
+}
+.ye3005e7998d285eda7837f82fdd666c6 .card{
+position: relative;
+z-index: 1;
+margin-bottom: 1.5rem;
+}
+.z9e4765dade06314e76700e069db68b4b i:hover{
+background: white;
+color: #ffffff;!important;
+line-height: 35px;
+border-radius: 50%;
+width: 37px;
+text-align: center;
+height: 36.6px;
+}
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+body{
+color: #262626;
+}
+.ye3005e7998d285eda7837f82fdd666c6 .card:last-child{
+margin-bottom: 0;
+}
+.t8b49a047d7a5ce782e2bec860a5fb51f{
+background:#ffffff;
+}
+.ae69fe8d11fcb679c9b21fe802d511f11{
+font-size:45px!important;
+}
+a:hover{
+color:#ffffff;background:#ffc658!important;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .yd2557077902a4ebfa0a5e8b71f739be7{
+margin-bottom: 1.5rem;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .row-item.yc561c9732bb3fb8c271d5834eb609633{
+background: #f2dfdd;
+}
+.ye3005e7998d285eda7837f82fdd666c6 .card .card-body{
+padding: 1.75rem 2rem;
+}
+.u13017210522a619470b5c8bb2655b7fc{
+font-size: 45px!important;
+}
+.btn-md{
+padding: 15.4px 30.2px;
+border-radius: 0;
+}
+.w9441e09a72f107039ce3c6de0ea05c93{
+font-weight: inherit;
+background-image: linear-gradient(120deg, #ffc95b 0%, #ffcd5f 100%);
+background-repeat: no-repeat;
+background-size: 100% 30%;
+background-position: 0 90%;
+transition: background-size 0.2s ease-in;
+}
+.v563a946d79844fd27f54511fa535be50{
+width: 100%;
+max-height: 720px;
+object-fit: cover;
+object-position: center;
+display: block;
+max-height: 100%;
+max-width: 100%;
+margin: auto;
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+}
+.a62eb37142456322a6a69af1f741035c4{
+text-decoration: underline!important;color:#ff8d23!important
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .row-item.w3e4487fcfd7cf406889d607b7f0ce3fa{
+background: #fcfaf6;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .w9fe4682e121deb7b44836ee08034fcb7{
+background:#bcd9df!important;
+}
+.ffb6bf504655c52521c4a42a4ef20ab23{
+background-color:#ffffff!important;
+border-color:#ffffff!important;
+color:#000000!important;
+}
+.va23d49de53ccf463ae3aeba2b659fa75{
+font-size: 2rem !important;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .f9516a35e7be21908f1c25dc0f6056228 *{
+color:#000000;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .row-item{
+padding: 3rem;
+padding-top: 3.7rem;
+height: 100%;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .yc561c9732bb3fb8c271d5834eb609633{
+background:#eddad8!important;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .yc561c9732bb3fb8c271d5834eb609633 *{
+color:#000000;
+}
+.ba59d922e9ac6f36075c124caaa58076a *{
+color: white !important;
+}
+.v5ca74d5e9dc2cb327b56d46c446b84aa{
+color: #505050;
+}
+.yc561c9732bb3fb8c271d5834eb609633 a{
+color:#ff8117!important;
+}
+.ye3005e7998d285eda7837f82fdd666c6 .card .card-header{
+cursor: pointer;
+padding: 1.75rem 2rem;
+color: #3f43fd;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-align: center;
+-ms-flex-align: center;
+-ms-grid-row-align: center;
+align-items: center;
+-webkit-box-pack: justify;
+-ms-flex-pack: justify;
+justify-content: space-between;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .card-img{
+margin-bottom: 1.7rem;
+text-align: left;
+}
+.t8b49a047d7a5ce782e2bec860a5fb51f a{
+font-size:16px;
+}
+.t8b49a047d7a5ce782e2bec860a5fb51f *{
+color:#0f0f0f!important;
+}
+.udf4ba4cc7e87e2937a4e82e7850aa35a{
+transition: all 0.3s;
+border-radius: 30px;
+}
+.w3e4487fcfd7cf406889d607b7f0ce3fa a{
+color:#ff8f25!important;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .row-item.w9fe4682e121deb7b44836ee08034fcb7{
+background: #cce9ef;
+}
+.y1be66f12e33620e97847be464997802d{
+background-color: #131313;
+font-size: 30.4px;
+height: 56.3px;
+min-width: 55.7px;
+padding: 0.7rem;
+padding-top: 13.5px;
+color: #fff !important;
+border: 1px solid #010101;
+border-radius: 50%;
+}
+.e5bfb5b42080d999449029dba2abf303a{
+font-size: 13.9px;
+}
+.ye3005e7998d285eda7837f82fdd666c6 .card .card-body p:last-child{
+margin-bottom: 0;
+}
+a{
+text-decoration: none;
+}
+.w9fe4682e121deb7b44836ee08034fcb7{
+background:#eae8e4!important ;
+}
+.nav-link{
+color: #000000;
+
+}
+.z9e4765dade06314e76700e069db68b4b i{
+border-radius: 50%;
+width: 37.3px;
+line-height: 35px;
+text-align: center;
+height: 36.9px;
+}
+.navbar-toggler span{
+display: flex;
+align-items: center;
+justify-content: center;
+border: 1px solid lightgrey;
+border-radius: 3px;
+}
+html{
+scroll-behavior: smooth;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.ye3005e7998d285eda7837f82fdd666c6 .card .card-header .collapsed{
+color: #090c59;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .row-item.f9516a35e7be21908f1c25dc0f6056228{
+background: #ccc9c9;
+}
+.w9c51076840484a88153ebc4adad6c9db{
+position: relative;
+min-height: 30px
+}
+.t98fc98cc2eb881030447bedfd31ccd8a h4{
+font-size:24px!important;
+}
+.udf4ba4cc7e87e2937a4e82e7850aa35a:hover{
+box-shadow: 0 49.6px 49.7px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.yfbb959f0586663d3571e1d209d5811c2{
+color: #a7a7a7;
+font-size: 20px;
+margin-bottom: 20.7px;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .w9fe4682e121deb7b44836ee08034fcb7 *{
+color:#000000;
+}
+.w3e4487fcfd7cf406889d607b7f0ce3fa *{
+color:#000000;
+}
+iframe{
+border: none!important;
+}
+.c148c56f62eea0d22b966eca9751ed7dc p,.c148c56f62eea0d22b966eca9751ed7dc a,.c148c56f62eea0d22b966eca9751ed7dc span,.c148c56f62eea0d22b966eca9751ed7dc label{
+font-size:16px!important;
+}
+.c148c56f62eea0d22b966eca9751ed7dc{
+background:#ffffff;
+color:#131313;
+}
+img{
+border-radius:20px
+}
+.t8b49a047d7a5ce782e2bec860a5fb51f p,.t8b49a047d7a5ce782e2bec860a5fb51f span,.t8b49a047d7a5ce782e2bec860a5fb51f label{
+font-size:16px!important;
+}
+.w9fe4682e121deb7b44836ee08034fcb7 a{
+color:#ff8117!important;
+}
+.navbar a{
+font-size: 18.3px!important;
+font-weight: bold;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .f9516a35e7be21908f1c25dc0f6056228{
+background:#c1bebe!important;
+}
+.ub7ec6340b74994c35e4b2c995d90dcc5{
+max-height: 300px;
+overflow-y: auto;
+}
+footer{
+background:#0a0a0a;
+color:#ffffff;
+}
+footer *{
+font-size:16px !important;
+}
+.ya1a6a74c23b1c3567dda7802333babcc:hover,.w9441e09a72f107039ce3c6de0ea05c93:hover{
+background-size: 100% 100% !important;
+background: #ffc658!important;
+background-repeat: no-repeat !important;
+background-position: 0 90% !important;
+transition: background-size 0.2s ease-in !important;
+}
+.ba59d922e9ac6f36075c124caaa58076a{
+background: rgba(0, 0, 0, 0.6);
+text-align: center;
+}
+.c148c56f62eea0d22b966eca9751ed7dc a,.t8b49a047d7a5ce782e2bec860a5fb51f a{
+color:#131313!important;
+text-decoration: underline !important;
+}
+.ye3005e7998d285eda7837f82fdd666c6{
+position: relative;
+z-index: 1;
+}
+.t98fc98cc2eb881030447bedfd31ccd8a .w3e4487fcfd7cf406889d607b7f0ce3fa *{
+color:#000000;
+}
+ </style>
+<style type="text/css"> 
+   .parallax-background {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 500px; /* Adjust as needed */
+    width: 100%;
+    overflow: hidden;
+
+    border-radius: 20px;
+}
+
+
+.parallax-content {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding:20px 40px;
+    margin: 50px auto; /* Creates space for parallax effect */
+    max-width: 80%;
+    border-radius: 5px;
+    position: relative;
+    z-index: 2;
+}
+.img-fluid{
+	max-height: 400px
+}
+@media only screen and (max-width:1000px) {
+.w9c51076840484a88153ebc4adad6c9db img{
+position: initial!important;
+}
+
+.ae69fe8d11fcb679c9b21fe802d511f11 {
+font-size: 20px;
+}
+.yfbb959f0586663d3571e1d209d5811c2 {
+font-size: 15px !important;
+}
+.u4b813c2b2511dcacbd921ff1066b3bff{
+padding-bottom: 0px !important;
+}
+} 
+.content-image-below {
+    margin: 20px 0;
+    text-align: center;
+}
+.image-align-left ol,.image-align-left ul{
+  margin-left: 51%;
+}
+ 
+/* For background image */
+.content-with-bg-image {
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+    position: relative;
+}
+
+.content-over-bg {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+}
+.content-image-below img,.content-with-side-images img,{
+	max-height: 500px!important;
+
+}
+ 
+ 
+
+/* Text container */
+.text-container {
+    flex: 0 0 60%;
+    max-width: 60%;
+    padding: 0 1rem;
+}
+ 
+
+ /* Main content container */
+.content-with-side-images {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Headers should always be full width */
+.content-with-side-images h4 {
+    width: 100%;
+    clear: both;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+/* Regular paragraphs should be full width by default */
+.content-with-side-images p {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+/* Image-text pair container */
+.image-text-pair {
+    width: 100%;
+    margin:  0px 0;
+   
+}
+
+/* Image container - floated */
+.image-container {
+    width: 50%;
+    
+    box-sizing: border-box;
+ 
+}
+.image-container img:hover{
+
+box-shadow: 0 49.6px 50.3px -25px rgb(0 0 0 / 30%);
+    transform: rotate(-2deg) scale(1.03);
+}
+.image-container img{
+transition: all 0.3s;
+}
+
+/* Left-aligned image */
+.image-align-left .image-container {
+    float: left;
+    margin-right: 20px;
+    margin-left: 0;
+    padding-right: 40px;
+}
+
+/* Right-aligned image */
+.image-align-right .image-container {
+    float: right;
+    margin-left: 20px;
+    margin-right: 0;
+
+    padding-left: 40px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+ 
+
+/* Clearfix */
+.clearfix {
+    clear: both;
+}
+
+/* Responsive behavior */
+@media (max-width: 768px) {
+    .image-container {
+        width: 100%;
+        float: none !important;
+        margin: 0 0 20px 0 !important;
+        padding: 0;
+    }
+    
+    .text-flow {
+        display: block;
+    }
+} 
+  
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0px;
+    left: 100%;
+    margin-top: -16px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+  
+}
+
+/* Smart positioning for right-edge dropdowns */
+.dropdown-menu-right .dropdown-submenu>.dropdown-menu,
+.nav-item:last-child .dropdown-submenu>.dropdown-menu,
+.nav-item:nth-last-child(2) .dropdown-submenu>.dropdown-menu {
+    left: auto;
+    right: 100%;
+    margin-left: 0;
+    margin-right: -1px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+/* For left-positioned dropdowns, reverse the arrow */
+.dropdown-menu-right .dropdown-submenu>a:after,
+.nav-item:last-child .dropdown-submenu>a:after,
+.nav-item:nth-last-child(2) .dropdown-submenu>a:after {
+    float: left;
+    border-width: 5px 5px 5px 0;
+    border-left-color: transparent;
+    border-right-color: #ccc;
+    margin-left: -10px;
+    margin-right: 0;
+}
+
+.dropdown-menu-right .dropdown-submenu:hover>a:after,
+.nav-item:last-child .dropdown-submenu:hover>a:after,
+.nav-item:nth-last-child(2) .dropdown-submenu:hover>a:after {
+    border-right-color: #fff;
+    border-left-color: transparent;
+}
+ 
+
+.multi-column-dropdown .dropdown-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .multi-column-dropdown {
+      
+        width: 100%;
+    }
+    
+    .dropdown-submenu>.dropdown-menu {
+        position: static;
+        margin: 0;
+        border: none;
+        box-shadow: none;
+    }
+}
+
+/* Use hover only where it exists */
+@media (hover:hover) {
+  .dropdown-submenu:hover > .dropdown-menu { display:block; }
+}
+
+/* Nested dropdowns should show when .show is present (Bootstrap only sets this for top-level) */
+.dropdown-menu .dropdown-menu { display:none; }
+.dropdown-menu .dropdown-menu.show { display:block; }
+
+/* Mobile layout: stack submenus and remove weird offsets */
+@media (max-width: 991.98px) {
+  .dropdown-menu {
+    position: static;          /* keeps the menu within the flow so it won't render off-screen */
+    float: none;
+    margin: 0;
+    box-shadow: none;
+    border: 0;
+  }
+  .dropdown-submenu > .dropdown-menu {
+    margin-left: 0;
+    max-height: 60vh;          /* scroll if long */
+    overflow-y: auto;
+  }
+}
+
+</style>
+<script type='application/ld+json'> 
+{
+"@context": "http://www.schema.org",
+"@type": "LocalBusiness","url": "inflow-and-infiltration-control-in-sewer-systems-guide.html",
+"address": {
+"@type": "PostalAddress"} }
+</script>
+<script type="application/ld+json">
+{
+"@type": "WebPage",
+"@context": "http://www.schema.org","lastReviewed": "2021-12-01",
+"mainContentOfPage": {
+"about": {"url": "how-to-plan-and-measure-an-ii-reduction-program.html","name": "","description": "",
+"disambiguatingDescription": ""},
+"accessibilitySummary": ""},
+"keywords": [""],
+"award": ["Best "],
+"teaches": [""],
+"educationalUse": [""],
+"text": [""],
+"workExample": {
+"about": {"url": "how-to-plan-and-measure-an-ii-reduction-program.html"
+}
+},
+"citation": {
+"@type": "CreativeWork",
+"about": {
+"url": "how-to-plan-and-measure-an-ii-reduction-program.html"}
+},
+"hasPart":[
+]
+}
+</script> 
+</head>
+
+<body><nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="inflow-and-infiltration-control-in-sewer-systems-guide.html"  ></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="navbar-nav ml-auto align-items-center d-flex">        
+            <!-- Show all double menus if within limit -->
+                                <li class="nav-item dropdown-hover dropdown">
+                <a class="dropdown-toggle ya1a6a74c23b1c3567dda7802333babcc nav-link" href="javascript:;" id="navbarDropdown0" role="button" data-toggle="dropdown" aria-expanded="false">
+                    What Causes Sewer I&I                </a>
+                <div class=" dropdown-menu-right  dropdown-menu" aria-labelledby="navbarDropdown0">
+                                                                    <a class="dropdown-item" href="inflow-and-infiltration-control-in-sewer-systems-guide.html" >
+                            Inflow and Infiltration Control in Sewer Systems Guide                        </a>
+                                                                    <a class="dropdown-item" href="what-causes-inflow-and-infiltration-in-sewers.html" >
+                            What Causes Inflow and Infiltration in Sewers                        </a>
+                                                                    <a class="dropdown-item" href="trenchless-sewer-rehabilitation-methods-compared.html" >
+                            Trenchless Sewer Rehabilitation Methods Compared                        </a>
+                                                                    <a class="dropdown-item" href="sealing-manholes-and-lift-stations-against-infiltration.html" >
+                            Sealing Manholes and Lift Stations Against Infiltration                        </a>
+                                                                    <a class="dropdown-item" href="how-to-plan-and-measure-an-ii-reduction-program.html" >
+                            How to Plan and Measure an I&I Reduction Program                        </a>
+                                    </div>
+            </li>
+            
+    </ul>
+</div>
+</nav>
+<div class="container-fluid "><div class="pt-5 container pb-5">
+<div class="row">
+<div class="pt-5 col-lg-12 pb-5 text-center" id="">
+<h1 class="ae69fe8d11fcb679c9b21fe802d511f11 mb-0">How to Plan and Measure an I&I Reduction Program</h1></div><div class="col-lg-12  m-auto">
+<div class="content">
+
+<div style="font-size:18px;line-height:1.6;"><br /> <p style="margin:0 0 8px !important;"><em>By the Editorial Team | Published: July 2026 | Last Updated: July 2026</em></p><br /> <br /> <h2 style="margin:14px 0 4px !important;line-height:1.25 !important;">How a Measurable I&I Reduction Program Is Built</h2><br /> <p style="margin:0 0 8px !important;">A measurable inflow and infiltration program follows one order: find the water, rank the defects, seal them, then prove the flow dropped. The most common way budgets are wasted is sealing pipes before the investigation shows which ones actually leak. A defensible program spends first on finding and ranking, then on repairs aimed at the highest-value defects. This page explains how each stage works and how the result is verified in gallons per day.</p><br /> <br /> <h2 style="margin:14px 0 4px !important;line-height:1.25 !important;">How the System Is Investigated</h2><br /> <p style="margin:0 0 8px !important;">Investigation quantifies how much I&I the system carries and pinpoints where it enters. Flow monitors measure dry-weather and wet-weather flow to separate steady infiltration from storm inflow. Smoke testing quickly reveals inflow paths such as cross-connections and downspouts. Dyed-water testing and CCTV inspection locate infiltration at joints, laterals, and structures. Together these tools turn a vague overflow problem into a mapped list of defects.</p><br /> <ul style="margin:4px 0 8px !important;padding-left:22px !important;"><br /> <li style="margin:2px 0 !important;">Flow monitoring: measures total I&I and separates infiltration from inflow.</li><br /> <li style="margin:2px 0 !important;">Smoke testing: finds direct inflow connections fast and cheaply.</li><br /> <li style="margin:2px 0 !important;">Dyed-water testing: confirms infiltration paths at specific defects.</li><br /> <li style="margin:2px 0 !important;">CCTV inspection: documents joint, lateral, and pipe defects for coding.</li><br /> </ul><br /> <p style="margin:0 0 8px !important;">Together these tools convert a vague overflow complaint into a mapped, measurable list of defects. That mapped list is what the ranking step then puts in priority order.</p><br /> <br /> <h2 style="margin:14px 0 4px !important;line-height:1.25 !important;">How Defects Are Ranked for Repair</h2><br /> <p style="margin:0 0 8px !important;">Defects are ranked by how much infiltration each contributes against what it costs to fix, so the budget targets the best returns first. A standardized defect coding system lets inspectors score condition consistently across a whole system. Ranking by flow-per-dollar keeps a program from spending heavily on minor leaks while major sources wait. The highest-value defects, often laterals and joint clusters, move to the top of the repair list. This triage is what makes a limited budget produce a measurable flow reduction.<div class="content-image-below"><img class="img-fluid" src="img/leaking-manhole-interior-wall-joint-infiltration.jpg"></div></p><br /> <br /> <h2 style="margin:14px 0 4px !important;line-height:1.25 !important;">How Repairs Are Sequenced</h2><br /> <p style="margin:0 0 8px !important;">Repairs are sequenced so structural and sealing work reinforce each other rather than undo one another. Structural lining rebuilds failing pipe barrels first where needed. Grouting then seals the joints, laterals, and penetrations that remain open. Manholes are sealed and coated in the right order, with infiltration stopped before coating. Sequencing prevents a later step from covering a defect an earlier step should have sealed.</p><br /> <table border="1" cellpadding="8" style="border-collapse:collapse !important;margin:4px 0 8px !important;width:100% !important;"><br /> <tr><th>Stage</th><th>Purpose</th><th>Typical tools</th></tr><br /> <tr><td>Flow monitoring</td><td>Quantify I&I and set a baseline</td><td>Flow meters, rainfall data</td></tr><br /> <tr><td>Field testing</td><td>Locate inflow and infiltration</td><td>Smoke, dyed water, CCTV</td></tr><br /> <tr><td>Ranking</td><td>Prioritize flow-per-dollar</td><td>Defect coding, condition scores</td></tr><br /> <tr><td>Repair</td><td>Seal and rebuild in order</td><td>Grouting, lining, coatings</td></tr><br /> <tr><td>Verification</td><td>Prove the reduction</td><td>Post-repair flow monitoring</td></tr><br /> </table><br /> <p style="margin:0 0 8px !important;">Each stage in the table feeds the one after it, so skipping a step weakens the result. The sequence is what turns scattered repairs into a program that can prove a flow reduction.</p><br /> <br /> <h2 style="margin:14px 0 4px !important;line-height:1.25 !important;">How the Result Is Verified</h2><br /> <p style="margin:0 0 8px !important;">The result is verified by comparing flow before and after repairs under similar groundwater and rainfall conditions. Post-repair flow monitoring measures the reduction in gallons per day, which is the number a capacity study relies on. Matching conditions matters because a wetter monitoring period would otherwise mask a real gain. Documented before-and-after data turns the repair spend into a defensible capacity recovery. Verification is what closes the loop and justifies the next phase of work.</p><br /> <br /> <h2 style="margin:14px 0 4px !important;line-height:1.25 !important;">What a Verification Report Documents</h2><br /> <p style="margin:0 0 8px !important;">A verification report captures the before-and-after flow data that turns repairs into a proven capacity gain. It records the baseline flow, the repairs made, and the post-repair flow under comparable conditions. Documenting the groundwater and rainfall context is what makes the comparison credible. A report built this way stands up in a capacity study and justifies the next phase of work. The items below are what a defensible report includes.<div class="content-image-below"><img class="img-fluid" src="img/sewer-service-lateral-connection-defect-leak.jpg"></div></p><br /> <ul style="margin:4px 0 8px !important;padding-left:22px !important;"><br /> <li style="margin:2px 0 !important;">Baseline flow monitoring with the groundwater and rainfall conditions noted.</li><br /> <li style="margin:2px 0 !important;">The list of defects repaired and the method used for each.</li><br /> <li style="margin:2px 0 !important;">Post-repair flow under conditions comparable to the baseline.</li><br /> <li style="margin:2px 0 !important;">The measured reduction in gallons per day used for capacity planning.</li><br /> </ul><br /> <p style="margin:0 0 8px !important;">A report built on these items stands up in a capacity study and justifies the next phase of work. Documented before-and-after flow is what turns repair spending into a proven capacity gain.</p><br /> <br /> <h2 style="margin:14px 0 4px !important;line-height:1.25 !important;">Frequently Asked Questions</h2><br /> <h3 style="margin:12px 0 3px !important;line-height:1.25 !important;">Where should an I&I program start?</h3><br /> <p style="margin:0 0 8px !important;">An I&I program should start with flow monitoring and field investigation, not repairs. Measuring flow first shows how much I&I exists and separates infiltration from inflow. Field testing then locates the defects so the budget targets real sources. Starting with repairs before investigation risks spending on pipes that were not the problem.</p><br /> <h3 style="margin:12px 0 3px !important;line-height:1.25 !important;">How are defects prioritized when the budget is limited?</h3><br /> <p style="margin:0 0 8px !important;">Defects are prioritized by flow-per-dollar, so the repairs that remove the most water for the least cost go first. A standardized condition-coding system scores defects consistently across the system. Ranking this way keeps minor leaks from consuming budget while major sources wait. The approach produces the largest measurable reduction for a fixed spend.</p><br /> <h3 style="margin:12px 0 3px !important;line-height:1.25 !important;">What is a sewer system evaluation survey?</h3><br /> <p style="margin:0 0 8px !important;">It is a structured study that quantifies I&I and identifies its sources so repairs can be prioritized. The survey combines flow monitoring, smoke and dyed-water testing, and CCTV inspection. Its output is a ranked list of defects and an estimate of the flow each contributes. It is the planning backbone of a defensible reduction program.</p><br /> <h3 style="margin:12px 0 3px !important;line-height:1.25 !important;">How long does an I&I program take to show results?</h3><br /> <p style="margin:0 0 8px !important;">Results appear once repairs are made and a comparable monitoring period confirms the flow drop, which often spans one or more wet seasons. Verification needs similar groundwater and rainfall conditions to be credible. Larger systems phase the work, so reductions accumulate over several cycles. The timeline is set by the monitoring needed to prove each phase.</p><br /> <h3 style="margin:12px 0 3px !important;line-height:1.25 !important;">Can you measure exactly how much water was removed?</h3><br /> <p style="margin:0 0 8px !important;">Yes, post-repair flow monitoring measures the reduction in gallons per day against the pre-repair baseline. Comparing similar conditions isolates the effect of the repairs from weather. The measured reduction is the figure used in capacity planning. This is why verification monitoring is built into a sound program rather than skipped.</p><br /> <h3 style="margin:12px 0 3px !important;line-height:1.25 !important;">Why not just seal every defect found?</h3><br /> <p style="margin:0 0 8px !important;">Sealing every defect regardless of contribution wastes budget on leaks that barely matter. Many defects contribute little flow, while a few contribute most of it. Ranking by flow-per-dollar directs money to the sources that move the needle. A targeted program achieves most of the reduction for a fraction of the cost of sealing everything.</p><br /> <h3 style="margin:12px 0 3px !important;line-height:1.25 !important;">Does an I&I program ever finish?</h3><br /> <p style="margin:0 0 8px !important;">An I&I program is ongoing because pipe ages and ground movement opens new defects over time. Sealing today's sources reduces flow now, but new leaks develop as the system continues to age. Periodic monitoring catches the next generation of defects. Treating I&I control as a maintained program rather than a one-time project keeps flows down long term.</p><br /> <br /> </div><br /><p><a class="a62eb37142456322a6a69af1f741035c4" href="inflow-and-infiltration-control-in-sewer-systems-guide.html">Inflow and Infiltration Control in Sewer Systems Guide</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><footer>
+<div class="container pt-5 py-4" >
+<div class="row"><div class="col-lg-3"><p><a class="ya1a6a74c23b1c3567dda7802333babcc" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+</p>
+</div></div>
+</div>
+</footer>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script>
+ <script>
+(function() {
+  // Works with both BS4 (data-toggle events) and BS5
+  var $ = window.jQuery;
+
+  // Toggle nested submenu on click/tap
+  $(document).on('click', '.dropdown-submenu > a', function(e) {
+    var $toggle = $(this);
+    var $submenu = $toggle.next('.dropdown-menu');
+
+    // If there isn't a submenu, behave like a normal link
+    if (!$submenu.length) return;
+
+    e.preventDefault();
+    e.stopPropagation();
+
+    // Close sibling submenus at the same level
+    $toggle.parent('.dropdown-submenu')
+      .siblings('.dropdown-submenu')
+      .find('>.dropdown-menu.show')
+      .removeClass('show');
+
+    // Toggle this submenu
+    $submenu.toggleClass('show');
+
+    // Keep parent dropdown open
+    $toggle.closest('.dropdown-menu').addClass('show');
+
+    // Accessibility state
+    $toggle.attr('aria-expanded', $submenu.hasClass('show') ? 'true' : 'false');
+  });
+
+  // When the top-level dropdown closes, close all nested submenus
+  $(document).on('hidden.bs.dropdown', '.dropdown', function() {
+    $(this).find('.dropdown-menu.show').removeClass('show');
+  });
+})();
+</script>
+</body>
+</html>
